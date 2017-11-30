@@ -485,12 +485,12 @@
       "EWall Cons Layers-Outside-2cm" : "Mur Cons-Marcotte-Isolation-Extérieure-2cm",
       "EWall Cons Layers-Outside-4cm" : "Mur Cons-Marcotte-Isolation-Extérieure-4cm",
       "EWall Cons Layers-Outside-6cm" : "Mur Cons-Marcotte-Isolation-Extérieure-6cm",
-      "EWall Cons Layers-Middle-2cm" : "Mur Cons-Marcotte-Isolation-Intérieure-2cm",
-      "EWall Cons Layers-Middle-4cm" : "Mur Cons-Marcotte-Isolation-Intérieure-4cm",
-      "EWall Cons Layers-Middle-6cm" : "Mur Cons-Marcotte-Isolation-Intérieure-6cm",
-      "EWall Cons Layers-Inside-2cm" : "Mur Cons-Marcotte-Isolation-Milieu-2cm",
-      "EWall Cons Layers-Inside-4cm" : "Mur Cons-Marcotte-Isolation-Milieu-4cm",
-      "EWall Cons Layers-Inside-6cm" : "Mur Cons-Marcotte-Isolation-Milieu-6cm"
+      "EWall Cons Layers-Middle-2cm" : "Mur Cons-Marcotte-Isolation-Milieu-2cm",
+      "EWall Cons Layers-Middle-4cm" : "Mur Cons-Marcotte-Isolation-Milieu-4cm",
+      "EWall Cons Layers-Middle-6cm" : "Mur Cons-Marcotte-Isolation-Milieu-6cm",
+      "EWall Cons Layers-Inside-2cm" : "Mur Cons-Marcotte-Isolation-Intérieure-2cm",
+      "EWall Cons Layers-Inside-4cm" : "Mur Cons-Marcotte-Isolation-Intérieure-4cm",
+      "EWall Cons Layers-Inside-6cm" : "Mur Cons-Marcotte-Isolation-Intérieure-6cm"
     },
     "RoofTypes": {
       "Roof Cons-NoInsu": "Toit Pas d’Isolation",
