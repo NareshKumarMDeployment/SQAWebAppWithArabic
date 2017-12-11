@@ -368,9 +368,9 @@
       "Apartment": "شقة",
       "Office: Private": "مكاتب خاصة",
       "Office: Public": "مكتب عام",
-      "Hotel: ThreeStar": "نزل: 3 نجوم",
-      "Hotel: FourStar": "نزل: 4 نجوم",
-      "Hotel: FiveStar": "نزل: 5 نجوم",
+      "Hotel: ThreeStar ": "الفندق: ثلاث نجوم",
+      "Hotel: FourStar": "الفندق: أربع نجوم",
+      "Hotel: FiveStar": "الفندق: خمس نجوم",
       "Hospital:Private": "مستشفى خاص",
       "Hospital:Public": "مستشفى عام"
     }
